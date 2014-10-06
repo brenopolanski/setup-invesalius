@@ -1,0 +1,14 @@
+python-numpy
+python-scipy
+python-wxgtk2.8
+python-imaging
+python-vtk
+python-gdcm
+python-vtkgdcm
+python-casmoothing
+python-nibabel
+python-serial
+python-psutil
+python-skimage
+cython
+git
